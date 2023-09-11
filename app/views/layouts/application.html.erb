@@ -13,12 +13,18 @@
 
   </head>
 
-  <body>
+  <body class="is-preload-0 is-preload-1 is-preload-2">
     <%= yield %>
-      <!-- Dependencias de JavaScript -->
-        <%= javascript_include_tag 'jquery.min' %>
-        <%= javascript_include_tag 'browser.min' %>
-        <%= javascript_include_tag 'breakpoints.min' %>
-        <%= javascript_include_tag 'main' %>
+    <!-- Footer -->
+				<footer id="footer">
+					<ul class="copyright">
+						<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+					</ul>
+				</footer>
+    <!-- Dependencias de JavaScript -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/main.js"></script>
   </body>
 </html>
