@@ -1,24 +1,34 @@
-# README
+# Desafio - Acelerar la Construcción de un Proyecto
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Actividad correspondiente a la unidad de "Aceleracion en la Creacion de un Proyecto", Modulo 5.
 
-Things you may want to cover:
+## Descripción
 
-* Ruby version
+Desafio Evaluado correspondiente al Módulo 5, Unidad de "Aceleracion en la Creacion de un Proyecto", del Curso "Desarrollo Ruby on Rails para Emprendimientos de tipo Startup" de Inforcap.
 
-* System dependencies
+### Prerrequisitos 📋
 
-* Configuration
+- Sistema Operativo Windows 10 - 11 con Soporte para WSL 2 (Linux)
+- Lenguaje de Programación (HTML 5, CSS, Ruby 3.2.2)
+- Framework (Rails 7.0.8)
+- Base de datos (PostgreSQL 12)
 
-* Database creation
+## Construido Con 🛠️
 
-* Database initialization
+- [Ruby](https://www.ruby-lang.org/es/) - El lenguaje utilizado
+- [Ruby on Rails](https://rubyonrails.org) - El framework web utilizado
+- [Ruby gems](https://rubygems.org) - Gestión de dependencias
+- [Postgresql](https://www.postgresql.org) - Sistema de base de datos
+- [Bootstrap](https://getbootstrap.com) - Framework de CSS
 
-* How to run the test suite
+## Autores ✒️
 
-* Services (job queues, cache servers, search engines, etc.)
+- **Juan Pablo Ferrada** - _Trabajo inicial_ - [JhonShaker](https://github.com/JhonShaker)
 
-* Deployment instructions
+## Licencia 📄
 
-* ...
+Este proyecto está bajo la Licencia XYZ - ve el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+Se agradece a nuestro profesor **Bryan Días** por apoyarnos durante el aprendizaje en clases y facilitarnos la presente plantilla de "Readme" para el uso personal en nuestros Proyectos.
